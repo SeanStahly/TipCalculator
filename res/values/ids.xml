@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tableLayout" type="id">tableLayout</item>
+    <item name="tableRow0" type="id">tableRow0</item>
+    <item name="tableRow5" type="id">tableRow5</item>
+    <item name="tableRow4" type="id">tableRow4</item>
+    <item name="tableRow3" type="id">tableRow3</item>
+    <item name="tableRow2" type="id">tableRow2</item>
+    <item name="tableRow1" type="id">tableRow1</item>
+    <item name="billTotalTextView" type="id">billTotalTextView</item>
+</resources>
